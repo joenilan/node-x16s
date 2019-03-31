@@ -1,0 +1,19 @@
+{
+    "name": "node-x16s",
+    "version": "1.0.0",
+    "main": "nodex16s",
+    "author": {
+        "name": "Silence"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/silence48/node-x16s.git"
+    },
+    "dependencies": {
+        "bindings": "^1.3.0",
+        "nan": "^2.6.2"
+    },
+    "keywords": [
+        "x16s"
+    ]
+}
